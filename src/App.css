@@ -1,0 +1,10 @@
+
+.App input.error {
+  border: 1px solid red;
+}
+
+.App .error-message {
+  color: red;
+  font-size: 0.75em;
+  display: relative;
+}
